@@ -1,3 +1,5 @@
+.. html:: only
+
 .. toctree::
    :maxdepth: 2
 
